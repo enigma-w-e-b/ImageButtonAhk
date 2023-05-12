@@ -24,3 +24,6 @@ ImageButton.Create(_BTN_ID_1,"BTN TESTE 1 [ A ]", EStyle*) ; define o estilo ini
   <img src="https://i.ibb.co/mCLKf7N/stack-example-02.png" alt="Example A" style="width: 45%; border-right: 3px solid #ccc;">
   <img src="https://i.ibb.co/tQ9m2Xs/stack-example-02.png" alt="Example B" style="width: 45%;">
 </div>
+
+
+[![Créditos](https://img.shields.io/badge/Cr%C3%A9ditos-AutoHotkey-brightgreen)](https://www.autohotkey.com/boards/viewtopic.php?t=1103)
