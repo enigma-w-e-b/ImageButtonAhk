@@ -26,4 +26,4 @@ ImageButton.Create(_BTN_ID_1,"BTN TESTE 1 [ A ]", EStyle*) ; define o estilo ini
 </div>
 
 
-[![Créditos](https://img.shields.io/badge/Cr%C3%A9ditos-AutoHotkey-brightgreen)](https://www.autohotkey.com/boards/viewtopic.php?t=1103)
+[![Credits](https://img.shields.io/badge/Cr%C3%A9ditos-AutoHotkey-brightgreen)](https://www.autohotkey.com/boards/viewtopic.php?t=1103)
