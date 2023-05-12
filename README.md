@@ -1,5 +1,5 @@
 
-## Exemplos de uso
+## Usage Examples
 - Window Handle or (hWnd) and passed as an id to the ImageButton class.
 
 ````
