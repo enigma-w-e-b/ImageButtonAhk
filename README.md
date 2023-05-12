@@ -19,7 +19,7 @@ Style := [[0, 0x80F0F0F0, , , 8, 0xFFF0F0F0, 0x8046B8DA, 2] ; normal
 ImageButton.Create(_BTN_ID_1,"BTN TESTE 1 [ A ]", EStyle*) ; define o estilo inicial
 ````
 
-##Images
+## Images
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://i.ibb.co/mCLKf7N/stack-example-02.png" alt="Example A" style="width: 45%; border-right: 3px solid #ccc;">
   <img src="https://i.ibb.co/tQ9m2Xs/stack-example-02.png" alt="Example B" style="width: 45%;">
